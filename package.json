@@ -1,0 +1,26 @@
+{
+  "name": "movie-index",
+  "version": "1.0.0",
+  "description": "movie links scraper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalhakim47/movie-index.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "faisalhakim47",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faisalhakim47/movie-index/issues"
+  },
+  "homepage": "https://github.com/faisalhakim47/movie-index#readme",
+  "dependencies": {
+    "x-ray": "^2.0.3"
+  }
+}
